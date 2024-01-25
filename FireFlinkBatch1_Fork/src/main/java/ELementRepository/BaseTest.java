@@ -13,6 +13,12 @@ public class BaseTest {
 	{
 		//by Rakesh
 	}
+	
+	public void nandinilaunchbrowser()
+	{
+		//hi
+	}
 }
+
 
 
