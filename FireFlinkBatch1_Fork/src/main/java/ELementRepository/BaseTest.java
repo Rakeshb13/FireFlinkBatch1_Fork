@@ -13,6 +13,10 @@ public class BaseTest {
 	{
 		//by Rakesh
 	}
+	public static void ck() 
+	{
+		//By CK
+	}
 }
 
 
