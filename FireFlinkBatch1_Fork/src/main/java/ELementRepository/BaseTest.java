@@ -13,6 +13,13 @@ public class BaseTest {
 	{
 		//by Rakesh
 	}
+	
+	public void closeBrowser()
+	{
+		// Pooja
+		//
+		//
+	}
 }
 
 
