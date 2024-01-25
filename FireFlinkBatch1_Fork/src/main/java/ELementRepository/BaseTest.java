@@ -13,6 +13,11 @@ public class BaseTest {
 	{
 		//by Rakesh
 	}
+	
+	public void Nuthan() {
+		
+		// my name is nuthan 
+	}
 }
 
 
